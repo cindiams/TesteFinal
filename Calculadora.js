@@ -3,7 +3,7 @@ function sum(){
 }
 
 function sub(){
-    //TODO: Implementar subtração
+    let sub = n1 - n2
 }
 
 function mult(){
