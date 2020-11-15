@@ -1,3 +1,5 @@
+let n1 = Number(20);
+let n2 = Number(10);
 function sum(){
     //TODO: Implementar soma
 }
