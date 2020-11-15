@@ -1,5 +1,5 @@
-let n1 = Number(20);
-let n2 = Number(10);
+let n1 = Number(21);
+let n2 = Number(15);
 function sum(){
     //TODO: Implementar soma
 }
