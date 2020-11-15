@@ -6,8 +6,8 @@ function sub(){
     let sub = n1 - n2
 }
 
-function mult(){
-    //TODO: Implementar multiplicação
+function mult(a,b){
+    return a * b
 }
 
 function div(){
