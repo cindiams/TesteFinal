@@ -1,15 +1,17 @@
+
 let n1 = Number(21);
 let n2 = Number(15);
+
 function sum(){
-    //TODO: Implementar soma
+    let sum = n1 + n2;
 }
 
 function sub(){
-    let sub = n1 - n2
+    let sub = n1 - n2;
 }
 
 function mult(){
-    //TODO: Implementar multiplicação
+    let mult = n1 * n2;
 }
 
 function div(){
